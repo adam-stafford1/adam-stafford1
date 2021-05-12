@@ -1,6 +1,6 @@
 ###  :man_technologist:  [Adam Stafford](https://github.com/adam-stafford1)
 
-Senior Software Engineer | MSc in Software Architecture & Design | Azure Certified Developer Assciate
+Senior Software Engineer | M.Sc. in Software Architecture & Design | Azure Certified Developer Assciate
 
 ### About
 
