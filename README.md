@@ -8,3 +8,4 @@ Senior Software Engineer | M.Sc. in Software Architecture & Design | Azure Certi
 -  **Languages :** C# | TypeScript | Python | Node
 -  **Hobbies :** GYM 💪 | Running 🏃 | Cycling 🚲
 -  **Contact me :** [Adam Stafford](mailto:adam.ryanstafford@gmail.com)
+-  **LinkedIn :** [LinkedIn](www.linkedin.com/in/adam-stafford-762474131)
